@@ -17,3 +17,8 @@ sudo python3 src/topo.py
 
 ## Licence
 MIT (code) — voir `LICENSE`.
+
+## Captures
+Voir le dossier `captures/`.
+
+![capture](captures/1.png)
